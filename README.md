@@ -12,11 +12,12 @@ This is a work in progress, proposal activity by Pitagoras College
  - Redux
 
 # Requirements
- - Node
+ - Node and NPM
+ - Bower
 
 
 # Utilization 
-
+To Do
 
 ## License
-[MIT License](LICENSE.md)
+[MIT License](https://github.com/YanMagale/minimal-tasks-checklist/LICENSE.md)
